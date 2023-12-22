@@ -6,8 +6,4 @@ function Home() {
   );
 }
 
-function test2() {
-  console.log("agora vai");
-}
-
 export default Home;
