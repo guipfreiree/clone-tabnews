@@ -1,8 +1,6 @@
 function Home() {
   return (
-    <h1>
-      Clarice, te amo. Esposa e mãe incrível. Dê uma risadinha de alegria! ❤️
-    </h1>
+    <h1>Esta é uma página em construção para reunir projetos voluntários.</h1>
   );
 }
 
